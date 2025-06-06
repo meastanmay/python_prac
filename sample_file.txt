@@ -1,0 +1,3 @@
+Hello! This is a sample file to test the working of a function.
+My name is Tanmay Agarwal and I am currently revising Python Programming.
+Thank you.
