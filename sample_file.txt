@@ -1,3 +1,6 @@
-Hello! This is a sample file to test the working of a function.
-My name is Tanmay Agarwal and I am currently revising Python Programming.
-Thank you.
+Hello World! My name is Tanmay Agarwal
+Here I am practicing File Handling in python
+This line will get appended rather than writing the file from the starting
+First Line
+
+Second Line
