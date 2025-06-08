@@ -1,0 +1,2 @@
+Hello! This is the new sample file created in the current directory
+I am writing few lines in the file to use it as sample file to work on the assignment

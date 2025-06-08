@@ -1,0 +1,2 @@
+This is the ouput file
+We have written multiple lines using python in this text file
